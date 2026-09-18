@@ -1,8 +1,7 @@
-<h1 align="center">Hi, I'm Muneeb UR Rehman 👋</h1>
-<h3 align="center">Backend Systems Architect · AI Infrastructure · Payment Systems</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f97316,100:f59e0b&height=200&section=header&text=Muneeb%20UR%20Rehman&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Systems%20Architect%20%C2%B7%20AI%20Infrastructure%20%C2%B7%20Payment%20Systems&descAlignY=58&descSize=18" alt="header banner"/>
 
 <p align="center">
-  <i>"I build systems that don't fall over when things go wrong."</i>
+  <img src="https://readme-typing-svg.demolab.com/?lines=I+build+systems+that+don't+fall+over+when+things+go+wrong.;Backend+%2B+AI+Systems+%2B+Automation;Self-taught.+Production-first.+Solo-shipped.&font=Fira+Code&center=true&width=650&height=45&color=f97316&vCenter=true&size=22" alt="typing animation"/>
 </p>
 
 <p align="center">
@@ -84,12 +83,16 @@ I work across the stack as the problem demands: **TypeScript/Node.js** for API a
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muneeb12011&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muneeb12011&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=muneeb12011&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=muneeb12011&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneeb12011&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneeb12011&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muneeb12011&theme=react-dark&hide_border=true&area=true" alt="activity graph" width="90%"/>
 </p>
 
 ---
