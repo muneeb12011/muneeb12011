@@ -14,9 +14,9 @@
 
 ### 🚀 About Me
 
-I'm a self-taught full-stack developer and AI systems engineer, working solo from architecture to production on Vercel and Render. I built a 6-state escrow engine for a paying client's payment backend — PayPal webhook signature validation, zero tolerance for rounding errors, real money on the line. I applied the same discipline to a six-agent AI system with a quality gate that blocks bad output before it ships, and to a GitHub App that learned to stay silent rather than guess when a pull request doesn't give it enough to reason about.
+I'm a self taught fullstack developer and AI systems engineer, working solo from architecture to production on Vercel and Render. I built a 6-state escrow engine for a paying client's payment backend PayPal webhook signature validation, zero tolerance for rounding errors, real money on the line. I applied the same discipline to a six-agent AI system with a quality gate that blocks bad output before it ships, and to a GitHub App that learned to stay silent rather than guess when a pull request doesn't give it enough to reason about.
 
-I also build **automation tools** — CLI utilities, GitHub Actions/App integrations, and background job pipelines that remove repetitive work from real workflows.
+I also build **automation tools** CLI utilities, GitHub Actions/App integrations, and background job pipelines that remove repetitive work from real workflows.
 
 I work across the stack as the problem demands: **TypeScript/Node.js** for API and platform work, **Python/FastAPI** for AI and data-heavy backends, **React** for interfaces, and whichever LLM provider (Anthropic Claude, Groq) fits the latency and cost profile of the task. Every project below went to production, not just to GitHub.
 
