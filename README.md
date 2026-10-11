@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muneeb12011&style=flat-square&color=f97316" alt="profile views" />
   <img src="https://img.shields.io/badge/Open%20to-Freelance%20%26%20Full--Time-f59e0b?style=flat-square" />
   <img src="https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-06b6d4?style=flat-square" />
 </p>
