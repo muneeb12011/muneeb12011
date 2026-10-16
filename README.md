@@ -65,20 +65,6 @@ I work across the stack as the problem demands: **TypeScript/Node.js** for API a
 
 ---
 
-### 📌 Featured Projects
-
-| Project | Description |
-|---|---|
-| 🧠 [**AgentFlow OS**](https://github.com/muneeb12011/AgentFlow-OS) | Autonomous multi-agent AI OS — LangGraph, self-healing Coder agent, Critic quality gate, SSE streaming |
-| 📄 [**DevDox**](https://github.com/muneeb12011/devdox) | GitHub App that auto-generates Architecture Decision Records from PR diffs, commits & linked Jira tickets |
-| 💼 [**Aurelance**](https://github.com/muneeb12011/freelancer-assistant) | Freelancer productivity SaaS — 30+ REST endpoints, Claude AI insights, invoicing & CRM |
-| 🕸️ [**Codebase Visualizer**](https://github.com/muneeb12011/Codebase-Visualizer) | AST-based dependency graph explorer with D3.js force-directed rendering & cycle detection |
-| 🔒 [**Airlock**](https://github.com/muneeb12011/airlock) | Zero-trust task manager — double-gate JWT + IP allowlist security, WebRTC file transfer |
-| 🛍️ [**ShopFlow**](https://github.com/muneeb12011/shopflow) | Full-stack e-commerce storefront — React 19, Express 5, Drizzle ORM, PostgreSQL |
-| 🐛 [**Bug Machine**](https://github.com/muneeb12011/bugmachine-) | AI-powered code scanner — 15+ languages, OWASP Top 10 checks, GitHub Actions integration |
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
